@@ -1,0 +1,68 @@
+[06-Apr-2020 11:28:55 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/apriakoz/solarimprovements.net/admin/include/connection.php on line 9
+[06-Apr-2020 11:28:55 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[06-Apr-2020 11:28:55 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/apriakoz/solarimprovements.net/admin/index.php on line 213
+[06-Apr-2020 11:28:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/apriakoz/solarimprovements.net/admin/index.php:214
+Stack trace:
+#0 {main}
+  thrown in /home/apriakoz/solarimprovements.net/admin/index.php on line 214
+[06-Apr-2020 11:29:18 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/apriakoz/solarimprovements.net/admin/include/connection.php on line 9
+[06-Apr-2020 11:29:18 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/apriakoz/solarimprovements.net/admin/form_handler.php on line 43
+[06-Apr-2020 11:29:18 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apriakoz/solarimprovements.net/admin/form_handler.php on line 45
+[06-Apr-2020 11:30:00 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/apriakoz/solarimprovements.net/admin/include/connection.php on line 9
+[06-Apr-2020 11:30:00 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/apriakoz/solarimprovements.net/admin/form_handler.php on line 43
+[06-Apr-2020 11:30:00 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/apriakoz/solarimprovements.net/admin/form_handler.php on line 45
+[06-Apr-2020 15:22:02 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[06-Apr-2020 15:22:05 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[06-Apr-2020 15:23:47 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[06-Apr-2020 15:30:26 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[06-Apr-2020 22:29:40 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[06-Apr-2020 22:29:46 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/contact.php on line 40
+[07-Apr-2020 11:38:20 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[09-Apr-2020 02:25:21 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[11-Apr-2020 22:10:49 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[11-Apr-2020 23:53:57 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[12-Apr-2020 15:58:28 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[14-Apr-2020 04:46:30 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[14-Apr-2020 05:01:51 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[14-Apr-2020 05:21:36 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[14-Apr-2020 05:59:14 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[14-Apr-2020 06:31:23 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[17-Apr-2020 11:51:30 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[17-Apr-2020 11:51:35 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[21-Apr-2020 08:53:32 America/New_York] PHP Notice:  Undefined index: logintrue in /home/apriakoz/solarimprovements.net/admin/index.php on line 38
+[30-Apr-2020 12:46:22 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[30-Apr-2020 13:39:09 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[30-Apr-2020 14:15:29 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[30-Apr-2020 15:39:37 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[30-Apr-2020 15:44:38 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[30-Apr-2020 21:53:47 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[30-Apr-2020 22:03:56 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[30-Apr-2020 22:05:47 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[30-Apr-2020 22:05:48 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-May-2020 01:32:20 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-May-2020 03:45:17 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[02-May-2020 02:00:08 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[02-May-2020 02:06:53 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[03-May-2020 03:24:52 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[03-May-2020 03:24:54 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[04-May-2020 16:08:40 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[05-May-2020 09:46:10 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[28-May-2020 23:40:34 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[28-May-2020 23:42:47 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[31-May-2020 04:20:46 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[31-May-2020 04:20:46 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 05:19:29 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 05:19:55 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 05:20:21 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 06:44:38 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 06:45:23 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 06:46:09 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 07:07:47 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 07:10:08 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 07:12:17 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 07:24:46 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 07:25:18 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 07:25:54 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 07:53:33 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 07:54:43 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
+[01-Jun-2020 07:55:20 America/New_York] PHP Notice:  Undefined index: logintrue in /home/touccpqi/public_html/admin/index.php on line 38
